@@ -1,3 +1,5 @@
+This website is hosted: https://nextjs-hb36eca6f.now.sh/ using now.
+
 # Next.js Example
 
 This directory is a brief example of a [Next.js](https://nextjs.org) app that can be deployed to ZEIT Now with zero configuration.
